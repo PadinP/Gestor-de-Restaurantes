@@ -9,5 +9,3 @@ Además, crea una función que muestre todos los restaurantes de un tipo de coci
 Se usó metodos como:
 _splice()_ que permite cambiar el contenido de un array eliminando,remplazando o agregando
 _push()_ para agregar elemtos al final del array
-
-hola
