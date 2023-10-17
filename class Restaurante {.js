@@ -3,7 +3,7 @@ class Restaurante {
     this.nombre = nombre;
     this.ubicacion = ubicacion;
     this.tipoDeCocina = tipoDeCocina;
-  } //hola
+  }
 }
 
 class Gestor {
