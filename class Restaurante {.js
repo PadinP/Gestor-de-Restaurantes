@@ -94,4 +94,3 @@ gestor.eliminarRestaurante("El Floridita");
 
 //  Mostrar restaurantes de un tipo de cocina específico
 gestor.mostrarRestaurantesPorTipo("Internacional");
-//aaaaaah
